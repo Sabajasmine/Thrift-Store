@@ -18,7 +18,7 @@ Admin Dashboard Access
 You can log in to the admin dashboard using the following credentials (for demo/testing):
 
 ADMIN_EMAIL = "admin@example.com"
-ADMIN_PASSWORD = "admin123"
+ADMIN_PASSWORD = "sabajasmine123"
 
 
 ⚠️ These credentials are for demo purposes only.
